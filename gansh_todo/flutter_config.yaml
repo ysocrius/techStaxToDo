@@ -1,0 +1,6 @@
+# Flutter Configuration File
+plugin:
+  platforms:
+    android:
+      disabled-plugins:
+        - sign_in_with_apple 
